@@ -60,7 +60,7 @@ The workflow follows these steps:
 
 3. **Set up your OpenAI API key**:
    ```bash
-   cp .env.example .env
+   cp .env .env
    ```
    Then edit `.env` and add your OpenAI API key: `OPENAI_API_KEY=sk-your-key-here`
 
